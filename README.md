@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 👋
 
 - 🔭 IoT and Embedded enthusiast
-- 🌱 Building Smart Thermostat products at [@switchee](https://www.switchee.com)
+- 🌱 Building IoT products at [@phare](https://www.pharelabs.com)
 - 🥷 Working on something exciting using [Matter](https://buildwithmatter.com/)
